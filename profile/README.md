@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Passwave/.github/main/profile/repo_banner.png" alt="Passwave Banner" width="100%" />
+</p>
+
 # Passwave
 
 Passwave builds modern infrastructure for digital access, enabling properties of any size to deliver secure, mobile-first credentials to the people who use their spaces every day. Our technology powers seamless access across hospitality, multifamily, corporate workplaces, and residential environments—without requiring rip-and-replace hardware.
